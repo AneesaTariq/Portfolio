@@ -58,7 +58,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Social Media Website With Theme Customization"
-              description="Developed a user-friendly social media site with profiles, newsfeeds, and messaging using HTML, CSS, and JavaScript.Incorporated responsive design for seamless viewing on alldevices, enhancing user engagement"
+              description="Developed a user-friendly social media site with profiles, newsfeeds, and messaging using HTML, CSS, and JavaScript. Incorporated responsive design for seamless viewing on alldevices, enhancing user engagement"
               ghLink="https://github.com/aneesa-tariq/Social-Media-Website"
               demoLink="https://socialmediasitee.netlify.app"              
             />
