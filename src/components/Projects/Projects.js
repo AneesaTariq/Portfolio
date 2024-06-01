@@ -58,7 +58,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Social Media Website With Theme Customization"
-              description="Developed a user-friendly social media site with profiles, newsfeeds, and messaging using HTML, CSS, and JavaScript. Incorporated responsive design for seamless viewing on alldevices, enhancing user engagement"
+              description="Developed a user-friendly social media site with profiles, newsfeeds, and messaging using HTML, CSS, and JavaScript. Incorporated responsive design for seamless viewing on all devices, enhancing user engagement"
               ghLink="https://github.com/aneesa-tariq/Social-Media-Website"
               demoLink="https://socialmediasitee.netlify.app"              
             />
@@ -69,7 +69,7 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="TextUtils"
-              description="Text Editor Website which can convert text into UpperCase, LowerCase, Remove spaces, Clear text, Count words and charaters, Copy text with dark and light mode"
+              description="Text Editor Website which can convert text into UpperCase, LowerCase, Remove spaces, Clear text, Count words and characters, Copy text ands dark and light mode"
               ghLink="https://github.com/AneesaTariq/TextUtils"
               demoLink="https://text-utils-tau-five.vercel.app/"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
