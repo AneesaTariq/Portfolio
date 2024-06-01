@@ -30,7 +30,7 @@ function Home2() {
               <br />
               <br />
               I also love to work
-              with <b className="purple">Node.js</b> and MongoDb.
+              with <b className="purple">Node.js</b> and MongoDB.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
